@@ -76,5 +76,5 @@
 /* preloading images */
 .owl-item.loading{
 	min-height: 150px;
-	background: url(/assets/images/ajax_loader.gif) no-repeat center center
+	background: url(https://res.cloudinary.com/da7efhqvt/raw/upload/v1548696453/jinglaidi/assets/images/ajax_loader.gif) no-repeat center center
 }

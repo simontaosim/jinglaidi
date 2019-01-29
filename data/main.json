@@ -1,138 +1,138 @@
 [
     {
-        "url": "/sc/jewelry/necklace/index.html",
+        "url": "/assets/necklace/index.html",
         "name": "项链",
         "class": "Category",
         "image": "/assets/images/necklace-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/pendant/index.html",
+        "url": "/assets/pendant/index.html",
         "name": "吊链",
         "class": "Category",
         "image": "/assets/images/pendant-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/earring/index.html",
+        "url": "/assets/earring/index.html",
         "name": "耳环",
         "class": "Category",
         "image": "/assets/images/earring-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/ring/index.html",
+        "url": "/assets/ring/index.html",
         "name": "戒指",
         "class": "Category",
         "image": "/assets/images/ring-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/brooch/index.html",
+        "url": "/assets/brooch/index.html",
         "name": "胸针",
         "class": "Category",
         "image": "/assets/images/brooch-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/bracelet/index.html",
+        "url": "/assets/bracelet/index.html",
         "name": "手链",
         "class": "Category",
         "image": "/assets/images/bracelet-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/akoya/index.html",
+        "url": "/assets/akoya/index.html",
         "name": "日本Akoya珍珠",
         "class": "Pearl Type",
         "image": "/assets/images/akoya-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/black-south-sea/index.html",
+        "url": "/assets/black-south-sea/index.html",
         "name": "黑南洋珍珠",
         "class": "Pearl Type",
         "image": "/assets/images/black-south-sea-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/white-south-sea/index.html",
+        "url": "/assets/white-south-sea/index.html",
         "name": "白南洋珍珠",
         "class": "Pearl Type",
         "image": "/assets/images/white-south-sea-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/golden-south-sea/index.html",
+        "url": "/assets/golden-south-sea/index.html",
         "name": "金南洋珍珠",
         "class": "Pearl Type",
         "image": "/assets/images/golden-south-sea-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/conch/index.html",
+        "url": "/assets/conch/index.html",
         "name": "海螺珍珠",
         "class": "Pearl Type",
         "image": "/assets/images/conch-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/les-petales-place-vendome/index.html",
+        "url": "/assets/les-petales-place-vendome/index.html",
         "name": "Les Pétales Place Vendôme",
         "class": "Collection",
         "image": "/assets/images/Vendome-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/les-petales-de-ginza/index.html",
+        "url": "/assets/les-petales-de-ginza/index.html",
         "name": "Les Pétales de Ginza",
         "class": "Collection",
         "image": "/assets/images/navigation_ginza.jpg"
     },
     {
-        "url": "/sc/jewelry/mikimoto-bloom-collection/index.html",
+        "url": "/assets/mikimoto-bloom-collection/index.html",
         "name": "MIKIMOTO BLOOM Collection",
         "class": "Collection",
         "image": "/assets/images/common_header_jewelry_im14.jpg"
     },
     {
-        "url": "/sc/jewelry/mikimoto-m-collection/index.html",
+        "url": "/assets/mikimoto-m-collection/index.html",
         "name": "MIKIMOTO M Collection",
         "class": "Collection",
         "image": "/assets/images/m-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/mikimoto-coral-collection/index.html",
+        "url": "/assets/mikimoto-coral-collection/index.html",
         "name": "MIKIMOTO Coral Collection",
         "class": "Collection",
         "image": "/assets/images/Coral-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/day-night/index.html",
+        "url": "/assets/day-night/index.html",
         "name": "Day & Night",
         "class": "Collection",
         "image": "/assets/images/day-and-night-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/woc/index.html",
+        "url": "/assets/woc/index.html",
         "name": "A World of Creativity",
         "class": "Collection",
         "image": "/assets/images/woc-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/fortuneleaves-collection/index.html",
+        "url": "/assets/fortuneleaves-collection/index.html",
         "name": "Fortune Leaves Collection",
         "class": "Collection",
         "image": "/assets/images/fortune-leaves-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/natural-pearl-collection/index.html",
+        "url": "/assets/natural-pearl-collection/index.html",
         "name": "Natural Pearl Collection",
         "class": "Collection",
         "image": "/assets/images/natural-pearl-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/mikimoto-ruyi-collection/index.html",
+        "url": "/assets/mikimoto-ruyi-collection/index.html",
         "name": "MIKIMOTO Ruyi Collection",
         "class": "Collection",
         "image": "/assets/images/ruyi-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/wonderland-collection/index.html",
+        "url": "/assets/wonderland-collection/index.html",
         "name": "Wonderland Collection",
         "class": "Collection",
         "image": "/assets/images/wonderland-nav.jpg"
     },
     {
-        "url": "/sc/jewelry/sweets-collection/index.html",
+        "url": "/assets/sweets-collection/index.html",
         "name": "Sweets Collection",
         "class": "Collection",
         "image": "/assets/images/sweets-nav.jpg"

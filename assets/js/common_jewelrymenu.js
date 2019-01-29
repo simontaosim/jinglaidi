@@ -3,7 +3,7 @@
 			var elem = '.js-elem-menu',
 				// currentPath = location.pathname,
 				// currentDir = currentPath.split('/')
-				JSONPATH = '/data/main.json';
+				JSONPATH = 'https://res.cloudinary.com/da7efhqvt/raw/upload/v1548702349/jinglaidi/main.json';
 			
 			if($(elem).length === 0){ return false;}
 			

@@ -383,7 +383,7 @@ h6, .h6 {
 /* /htmljp/bridal/index.html
 ------------------------------------------ */
 .homepage__articles .perfect-pearl.bridal-pearl-jewelry {
-	background-image: url(/sc/images/bridal_index_bg01.jpg);
+	background-image: url(/assets/images/bridal_index_bg01.jpg);
 }
 
 
@@ -468,14 +468,14 @@ h6, .h6 {
 /* /htmljp/column/history/index.html
 ------------------------------------------ */
 .legacy-view .legacy-banner {
-	background-image: url(/sc/images/history_index_main01.jpg);
+	background-image: url(/assets/images/history_index_main01.jpg);
 	background-size: cover;
 }
 
 /* /htmljp/column/history/index.html
 ------------------------------------------ */
 .news-view .news-view--section-onpage-cta .onpage-cta {
-	background-image: url(/sc/images/news_index_bg01.jpg);
+	background-image: url(/assets/images/news_index_bg01.jpg);
 }
 
 /* /htmljp/history/index.html
@@ -592,7 +592,7 @@ img.mikimoto-logo--inline {
 	width: 11px;
 	height: 10px;
 	margin: 0 6px;
-	background: url(/assets/images/common_com_ic01.png) no-repeat 0 0;
+	background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_ic01.png) no-repeat 0 0;
 }
 @media screen and (max-width: 1024px) {
 	.solid-view__content {
@@ -746,7 +746,7 @@ td.input-error {
 	width: 13px;
 	height: 13px;
 	margin-top: -7px;
-	background: url(/assets/images/common_com_ic03.png) no-repeat 0 -6px;
+	background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_ic03.png) no-repeat 0 -6px;
 	background-size: 26px auto;
 }
 .section--accordion .headline02.js-toggle-content__trigger.is-active:after {
@@ -782,7 +782,7 @@ td.input-error {
 	width: 13px;
 	height: 13px;
 	margin-top: -7px;
-	background: url(/assets/images/common_com_ic02.png) no-repeat 0 -6px;
+	background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_ic02.png) no-repeat 0 -6px;
 	background-size: 26px auto;
 }
 .section--accordion .headline03.js-toggle-content__trigger.is-active:after {
@@ -836,7 +836,7 @@ td.input-error {
 		width: 13px;
 		height: 13px;
 		margin-top: -7px;
-		background: url(/assets/images/common_com_ic03.png) no-repeat 0 -6px;
+		background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_ic03.png) no-repeat 0 -6px;
 		background-size: 26px auto;
 	}
 	.section--accordion .headline02.js-sp-accordion__trigger.is-active:after {
@@ -874,7 +874,7 @@ td.input-error {
 		width: 13px;
 		height: 13px;
 		margin-top: -7px;
-		background: url(/assets/images/common_com_ic02.png) no-repeat 0 -6px;
+		background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_ic02.png) no-repeat 0 -6px;
 		background-size: 26px auto;
 	}
 	.section--accordion .headline03.js-sp-accordion__trigger.is-active:after {
@@ -2412,13 +2412,13 @@ ol.list-in-list,
 	width: 12px;
 	height: 12px;
 	margin-top: -5px;
-	background: url(/asssets/images/common_com_ic02.png) no-repeat 0 0;
+	background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_ic02.png) no-repeat 0 0;
 }
 .toggle-button > .button.is-active:before {
 	background-position: -12px 0;
 }
 .toggle-button > .button:hover:before{
-	background-image: url(/assets/images/common_com_ic03.png);
+	background-image: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_ic03.png);
 }
 .toggle-button .js-toggle-content__body {
 	display: none;
@@ -2448,7 +2448,7 @@ ol.list-in-list,
 .flowchart > li {
 	display: table-cell;
 	padding: 7px 10px 7px 27px;
-	background: url(/asssets/images/common_com_flow_bg01.png) no-repeat 0 0 #f0f0f0;
+	background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_flow_bg01.png) no-repeat 0 0 #f0f0f0;
 	background-size: 22px 100%;
 	font-size: 14px;
 	line-height: 1.3;
@@ -2457,12 +2457,12 @@ ol.list-in-list,
 	list-style: none;
 }
 .flowchart > li.is-current {
-	background: url(/assets/images/common_com_flow_bg02.png) no-repeat 0 0 #aa823a;
+	background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_flow_bg02.png) no-repeat 0 0 #aa823a;
 	background-size: 22px 100%;
 	color: #ffffff;
 }
 .flowchart > li.is-current + li {
-	background: url(/assets/images/common_com_flow_bg03.png) no-repeat 0 0 #f0f0f0;
+	background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_flow_bg03.png) no-repeat 0 0 #f0f0f0;
 	background-size: 22px 100%;
 }
 .flowchart > li:first-child {
@@ -2725,7 +2725,7 @@ ol.list-in-list,
 	display: inline-block;
 	width: 8px;
 	height: 8px;
-	background: url(/assets/images/common_com_ic05.png) no-repeat 0 0;
+	background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_ic05.png) no-repeat 0 0;
 }
 .menu-detail__item.is-active:before {
 	background-position: -8px 0;
@@ -2862,7 +2862,7 @@ ol.list-in-list,
 	display: inline-block;
 	width: 4px;
 	height: 8px;
-	background: url(/assets/images/common_com_ic04.png) no-repeat 0 0;
+	background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_ic04.png) no-repeat 0 0;
 }
 .bookmark-detail {
 	float: right;
@@ -2894,7 +2894,7 @@ ol.list-in-list,
 	display: inline-block;
 	width: 12px;
 	height: 12px;
-	background: url(/assets/images/common_com_ic02.png) no-repeat 0 0;
+	background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_ic02.png) no-repeat 0 0;
 }
 .bookmark-detail .edit-comment__title.is-active:before {
 	background-position: -12px 0;
@@ -2947,7 +2947,7 @@ ol.list-in-list,
 		float: none;
 		width: 100%;
 		padding-right: 25px;
-		background: url(/assets/images/common_com_ic06.png) no-repeat 100% 50%;
+		background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_ic06.png) no-repeat 100% 50%;
 		background-size: 16px auto;
 		box-sizing: border-box;
 	}
@@ -3566,7 +3566,7 @@ ol.list-in-list,
 	display: inline-block;
 	width: 8px;
 	height: 8px;
-	background: url(/assets/images/common_com_ic05.png) no-repeat 0 0;
+	background: url(https://res.cloudinary.com/da7efhqvt/image/upload/v1548696575/jinglaidi/assets/images/common_com_ic05.png) no-repeat 0 0;
 }
 .goods-detail .js-toggle-content__trigger.is-active:before {
 	background-position: -8px 0;
@@ -3820,7 +3820,7 @@ ol.list-in-list,
 	color: #aa823a !important;
 }
 .high_index_bg01 {
-	background-image: url(/sc/images/high_index_im28.jpg);
+	background-image: url(/assets/images/high_index_im28.jpg);
 	background-position: 50% 50%;
     background-size: cover;
     padding-bottom: 200px;
